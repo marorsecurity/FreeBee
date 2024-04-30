@@ -6,7 +6,7 @@ site - name - (occupation)
 
 example:
 
-https://xioyito.top - **xioyito** - (Student)
+https://marorsecurity.io - **Maror Security** - (Secure, performant systems)
 
 -->
 
