@@ -1,7 +1,8 @@
 
-English | [简体中文](https://github.com/xioyito/NewBee/blob/master/README.zh-cn.md)
+FreeBee is a fork of xioyito's NewBee theme for Hugo. NewBee is a very nice 
+looking theme, but includes analytics that I don't care for.
 
-## Preview
+## Preview (of NewBee, FreeBee's predecessor)
 ---
 ![NewBee-Preview-1](https://raw.githubusercontent.com/xioyito/NewBee/main/images/preview-1.png "light-mode")
 ![NewBee-Preview-2](https://raw.githubusercontent.com/xioyito/NewBee/main/images/preview-2.png "dark-mode")
@@ -9,7 +10,7 @@ English | [简体中文](https://github.com/xioyito/NewBee/blob/master/README.zh
 ![NewBee-Preview-4](https://raw.githubusercontent.com/xioyito/NewBee/main/images/preview-4.png "local search")
 
 ## Example Site
-You can see this theme in action on [my site](https://xioyito.top).
+Coming Soon!
 
 ## Features
 * Functions
@@ -54,27 +55,27 @@ The following is For macOS system, other systems see: <https://gohugo.io/getting
 ~ % port install hugo
 ```
 
-### install NewBee
+### install FreeBee
 First, you need to create a new site(e.g. my-blog) by Hugo:
 ``` bash
 ~ % hugo new site my-blog
 ```
 
-You have 2 methods to install NewBee after creating a new site:
+You have 2 methods to install FreeBee after creating a new site:
 #### Method 1
 
-download the theme manually by going to <https://github.com/xioyito/NewBee> and pasting it to `themes` in your root directory.
+download the theme manually by going to <https://github.com/marorsecurity/FreeBee> and pasting it to `themes` in your root directory.
 
 #### Method 2
 
 clone it directly to `themes`:
 ``` bash
 ~ % cd my-blog
-my-blog % git clone https://github.com/xioyito/NewBee.git themes/NewBee
+my-blog % git clone https://github.com/marorsecurity/FreeBee.git themes/FreeBee
 ```
 
 ### Configuration
-That's simple, just copy the file `NewBee/config-example/hugo.toml` to your Hugo root directory.
+That's simple, just copy the file `FreeBee/config-example/hugo.toml` to your Hugo root directory.
 
 ### First post
 create a new post:
@@ -91,26 +92,27 @@ my-blog % hugo server -D
 ```
 go to <http://localhost:1313/> in your browser. From now your browser will refresh automatically when the files in your site changes , so you don’t need to refresh your browser every time.
 
-## Customize NewBee
+## Customize FreeBee
 if you want to override some of the styles, just create a file `my-blog/static/css/custom.css` and add your own styles into this file.
 
-## Help NewBee be better
+## Help FreeBee be better
 ### Found a bug?
-If you find any bugs, welcome to use [Issue](https://github.com/xioyito/NewBee/issues) or create a new [Pull Request](https://github.com/xioyito/NewBee/pulls)  to fix the issue.
+If you find any bugs, welcome to use [Issue](https://github.com/marorsecurity/FreeBee/issues) or create a new [Pull Request](https://github.com/marorsecurity/FreeBee/pulls)  to fix the issue.
 
-### A NewBee theme user?
-I'd appreciate your support, if you want to share your site, please make a contribution and add your site to the [list](https://github.com/xioyito/NewBee/blob/master/USERS.md).
+### A FreeBee theme user?
+I'd appreciate your support, if you want to share your site, please make a contribution and add your site to the [list](https://github.com/marorsecurity/FreeBee/blob/master/USERS.md).
 
 
 ## Sponsoring
-If you like the theme and support my work, just do:
-* [Alipay](https://github.com/xioyito/NewBee/raw/master/images/Alipay.jpeg)
-* [Wechat](https://github.com/xioyito/NewBee/raw/master/images/Wechat.jpeg)
+Coming soon!
+
+## Discord
+Coming soon!
 
 Thank you.
 
 ## License
-Copyright © 2022 [xioyito](https://github.com/xioyito)
+Copyright © 2024 [Mike Doyle, Maror Security](https://github.com/marorsecurity)
 
-NewBee theme is released under the MIT License, see more: <https://github.com/xioyito/NewBee/blob/master/LICENSE>
+FreeBee theme is released under the MIT License, see more: <https://github.com/marorsecurity/FreeBee/blob/master/LICENSE>
 
